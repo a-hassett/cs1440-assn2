@@ -1,0 +1,38 @@
+
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2020:
+=========================================================
+Number of FIPS areas in report       3,274
+
+Total annual wages                   $8,932,181,493,092
+Area with maximum annual wages       New York County, New York
+Maximum reported wage                $319,966,853,943
+
+Total number of establishments       10,537,822
+Area with most establishments        Los Angeles County, California
+Maximum # of establishments          516,205
+
+Total annual employment level        139,973,031
+Area with maximum employment         Los Angeles County, California
+Maximum reported employment level    4,109,300
+
+
+Statistics over the software publishing industry in 2020:
+=========================================================
+Number of FIPS areas in report       1,458
+
+Total annual wages                   $89,565,711,413
+Area with maximum annual wages       King County, Washington
+Maximum reported wage                $20,999,836,077
+
+Total number of establishments       41,237
+Area with most establishments        New York County, New York
+Maximum # of establishments          1,528
+
+Total annual employment level        485,300
+Area with maximum employment         King County, Washington
+Maximum reported employment level    72,428
+

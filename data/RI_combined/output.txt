@@ -1,0 +1,38 @@
+
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2020:
+=========================================================
+Number of FIPS areas in report       6
+
+Total annual wages                   $26,891,799,820
+Area with maximum annual wages       Providence County, Rhode Island
+Maximum reported wage                $16,446,282,171
+
+Total number of establishments       39,967
+Area with most establishments        Providence County, Rhode Island
+Maximum # of establishments          19,242
+
+Total annual employment level        444,431
+Area with maximum employment         Providence County, Rhode Island
+Maximum reported employment level    264,945
+
+
+Statistics over the software publishing industry in 2020:
+=========================================================
+Number of FIPS areas in report       6
+
+Total annual wages                   $74,000,439
+Area with maximum annual wages       Providence County, Rhode Island
+Maximum reported wage                $47,041,885
+
+Total number of establishments       133
+Area with most establishments        Unknown Or Undefined, Rhode Island
+Maximum # of establishments          62
+
+Total annual employment level        568
+Area with maximum employment         Providence County, Rhode Island
+Maximum reported employment level    337
+

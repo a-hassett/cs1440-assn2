@@ -1,0 +1,38 @@
+
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2020:
+=========================================================
+Number of FIPS areas in report       9
+
+Total annual wages                   $116,390,079,703
+Area with maximum annual wages       Fairfield County, Connecticut
+Maximum reported wage                $36,911,201,881
+
+Total number of establishments       124,953
+Area with most establishments        Fairfield County, Connecticut
+Maximum # of establishments          37,329
+
+Total annual employment level        1,545,338
+Area with maximum employment         Hartford County, Connecticut
+Maximum reported employment level    477,795
+
+
+Statistics over the software publishing industry in 2020:
+=========================================================
+Number of FIPS areas in report       9
+
+Total annual wages                   $572,525,433
+Area with maximum annual wages       Fairfield County, Connecticut
+Maximum reported wage                $359,401,652
+
+Total number of establishments       685
+Area with most establishments        Fairfield County, Connecticut
+Maximum # of establishments          274
+
+Total annual employment level        3,860
+Area with maximum employment         Fairfield County, Connecticut
+Maximum reported employment level    2,029
+
